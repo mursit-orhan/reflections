@@ -1,1 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
+Git installs all configuration files, sets its environment to ready track and get version my files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+this is a decision point for you you might work a lot of files but just a particular ones are ready to go to repository.
