@@ -4,3 +4,23 @@ Git installs all configuration files, sets its environment to ready track and ge
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 this is a decision point for you you might work a lot of files but just a particular ones are ready to go to repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Can multiple changes in your working diretory related one logical change or not. However you have chance to choose 
+which files will be add to staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+I you want to experiment a new thing and want to not effect the your original source. Using new branch is a good idea.
+
+How do the diagrams help you visualize the branch structure?
+
+I could explicitly see what is going on repository. we can track of which branches contain which commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+all the commits seem in a lineer line. All the changes combined to the merged branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+one of the pros you are always be aware of what you are doing. You are on control everytime.
+cons of it you have to spend your time to simple merge operations.
